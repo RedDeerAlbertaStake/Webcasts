@@ -1,3 +1,5 @@
+[HOME](https://reddeeralbertastake.github.io)
+
 # Sacrament Meeting over Zoom
 
 ## Hardware Setup
