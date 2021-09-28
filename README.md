@@ -1,4 +1,6 @@
-# Red Deer Alberta Stake Technology Documentation
+# Red Deer Alberta
+
+## Stake Technology Documentation
 
 * [Webcasts](Webcasts.md)
 
