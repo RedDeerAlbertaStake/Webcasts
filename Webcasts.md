@@ -4,7 +4,7 @@
 
 ## Unit Specific Documentation
 
-* [Red Deer 1st Ward](wards/Red-Deer-1st-Ward.md)
+  * [Red Deer 1st Ward](wards/Red-Deer-1st-Ward.md)
 
 ## Tech Training Library
 
