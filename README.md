@@ -1,7 +1,5 @@
 # Red Deer Alberta
 
-[HOME](https://reddeeralbertastake.github.io)
-
 ## Stake Technology Documentation
 
 * [Webcasts](Webcasts.md)
