@@ -6,7 +6,7 @@ Documentation, Processes and Tools used for Stake Webcasts (Stake Conference, Fi
 
 ## Unit Specific Documentation
 
-* [Red Deer 1st Ward](wards/Red-Deer-1st-Ward)
+* [Red Deer 1st Ward](wards/Red-Deer-1st-Ward.md)
 
 ## Tech Training Library
 
