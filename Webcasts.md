@@ -1,9 +1,5 @@
 # Webcasts
 
-## About
-
-Documentation, Processes and Tools used for Stake Webcasts (Stake Conference, Firesides, etc)
-
 ## Unit Specific Documentation
 
 * [Red Deer 1st Ward](wards/Red-Deer-1st-Ward.md)
