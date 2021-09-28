@@ -1,4 +1,4 @@
-# Red Deer Alberta
+# Red Deer Alberta Stake
 
 ## Stake Technology Documentation
 
