@@ -1,9 +1,7 @@
-# Red Deer Alberta Stake
-
-## Stake Technology Documentation
+# Stake Technology Documentation
 
   * [Webcasts](Webcasts.md)
 
-## Policies
+# Policies
 
   * [Technology Standards](https://www.churchofjesuschrist.org/help/support/meetinghouse-technology/my-calling-as-a-technology-specialist/technology-standards?lang=eng)
