@@ -25,4 +25,3 @@ VIDEO_FILE_EXTENSION="${1##*.}"
 ffmpeg -i "${1}" -loop 1 -i "${2}" \
   -filter_complex "[1:0] format=yuva420p,fade=in:st=3:d=0.5:alpha=1,fade=out:st=9:d=0.5:alpha=1 [ovr]; [0][ovr]overlay=0:0:shortest=1'" \
   -pix_fmt yuv420p -c:a copy "${VIDEO_FILE_NAME}-overlay.${VIDEO_FILE_EXTENSION}"
-
